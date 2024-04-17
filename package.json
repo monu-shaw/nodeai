@@ -1,0 +1,22 @@
+{
+  "name": "nodeai",
+  "version": "1.0.0",
+  "description": "Build AI-Powered Apps with Node.js and Llama-cpp",
+  "main": "app.mjs",
+  "scripts": {
+    "test": "node app.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monu-shaw/nodeai.git"
+  },
+  "author": "monu-shaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monu-shaw/nodeai/issues"
+  },
+  "homepage": "https://github.com/monu-shaw/nodeai#readme",
+  "dependencies": {
+    "node-llama-cpp": "^2.8.9"
+  }
+}
